@@ -1,10 +1,27 @@
 # BeamerStyleSlides
 
-Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两种格式。尤其适用于晋升述职、技术分享和学术汇报。
+Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。尤其适用于晋升述职、技术分享和学术汇报。
 
 <h1 align="center">
 <img width="100%" src="https://raw.githubusercontent.com/wzpan/BeamerStyleSlides/master/preview/tile.png" alt="teaser">
 </h1>
+
+## 克隆方法
+
+1. 安装 git-lfs。为了节省仓库大小，项目使用 git-lfs 来对 *.key 和 *.pptx 进行版本控制。所以，在克隆前，要求先 [安装好 git-lfs](https://git-lfs.github.com/) 。
+2. 安装完成后再执行 git clone 操作：
+
+``` sh
+https://github.com/wzpan/BeamerStyleSlides.git
+```
+
+## 使用技巧
+
+1. 首先可以在 [beamer-theme-matrix](https://hartwork.org/beamer-theme-matrix/) 中找找看有没有心仪的样式；
+2. 在上面的主题列表中看看对应的主题是否已经完成了复刻。
+3. 如果有，可以点击查看预览图，看看效果是否满意。
+4. 一些底部带有包含作者信息（author）、标题（title）字段的主题，可以通过编辑模板修改对应字段的值。
+5. 为了方便鹅厂的同事，项目符号用了腾讯的logo。如果你不是腾讯的员工，可以在项目符号和编号里将这个logo改为其他的图案。
 
 ## 主题
 
@@ -50,14 +67,6 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两种格式。
 | ---- | ----- | ---- |
 | fb-tao  |  [wzpan](http://github.com/wzpan/)  |  [contrib-fb-tao-0], [contrib-fb-tao-1]   |
 
-
-## 使用技巧
-
-1. 首先可以在 [beamer-theme-matrix](https://hartwork.org/beamer-theme-matrix/) 中找找看有没有心仪的样式；
-2. 在上面的主题列表中看看对应的主题是否已经完成了复刻。
-3. 如果有，可以点击查看预览图，看看效果是否满意。
-4. 一些底部带有包含作者信息（author）、标题（title）字段的主题，可以通过编辑模板修改对应字段的值。
-5. 为了方便鹅厂的同事，项目符号用了腾讯的logo。如果你不是腾讯的员工，可以在项目符号和编号里将这个logo改为其他的图案。
 
 ## 致谢
 
