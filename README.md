@@ -73,7 +73,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 
 要注意的是模板并没有做到 100% 遵循原始的效果，因为 PowerPoint、Keynote 和 Beamer 毕竟各自的支持的能力有差异。
 
-我更希望做到的是在保留 Beamer 原有的风格的基础上因地制宜的做些调整。
+我更希望做到的是在保留 Beamer 原有的风格的基础上因地制宜地做些调整。
 
 ## 致谢
 
