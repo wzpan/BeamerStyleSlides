@@ -1,0 +1,253 @@
+% !Mode::"TeX:UTF-8"
+% !Mode:: "TeX:UTF-8"
+\documentclass[xcolor=svgnames,serif,table,10pt]{beamer}
+\mode<presentation>{
+% Setup appearance:
+\useoutertheme{infolines}
+\usetheme{Darmstadt}
+\setbeamercovered{transparent}
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{blocks}[rounded][shadow=true]
+\setbeamertemplate{enumerate items}[circle]
+
+% 修改样式
+\setbeamercolor{box}{bg=black!20!orange,fg=white}
+\setbeamercolor{block title}{use=sidebar,fg=sidebar.fg!10!white,bg=orange!70!black}
+\setbeamercolor{block title example}{use=sidebar,fg=sidebar.fg!10!white,bg=black!60!green}
+\setbeamercolor{block title alerted}{use=sidebar,fg=sidebar.fg!10!white,bg=black!50!red}
+
+\setbeamertemplate{headline}
+{%
+  \begin{beamercolorbox}[shadow=true]{section in head/foot}
+  \vskip2pt\insertnavigation{\paperwidth}\vskip2pt
+  \end{beamercolorbox}%
+}
+}
+\usepackage{animate}
+\usepackage[english]{babel}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage{multirow,multicol,longtable}
+\usepackage{graphics}
+\usepackage{xcolor}
+\usepackage[no-math]{fontspec}%--------------------------------------------------提供字体选择命令
+\usepackage{xunicode}%-----------------------------------------------------------提供Unicode字符宏
+\usepackage{xltxtra}%------------------------------------------------------------提供了针对XeTeX的改进并且加入了XeTeX的LOGO
+\usepackage[BoldFont,SlantFont,CJKchecksingle]{xeCJK}%---------------------------使用xeCJK宏包
+%================================== 设置中文字体 ================================%
+\setCJKmainfont{Adobe Heiti Std}%------------------------------------------------设置正文为黑体
+\setCJKmonofont{Adobe Song Std}%-------------------------------------------------设置等距字体
+\setCJKsansfont{Adobe Kaiti Std}%------------------------------------------------设置无衬线字体
+% \setCJKfamilyfont{zxzt}{FZShouJinShu-S10S}
+% \setCJKfamilyfont{FZDH}{FZDaHei-B02S}
+%================================== 设置中文字体 ================================%
+
+%================================== 设置英文字体 ================================%
+\setmainfont[Mapping=tex-text]{Times New Roman}%--------------------------------英文衬线字体
+\setsansfont[Mapping=tex-text]{Arial}%------------------------------------英文无衬线字体
+\setmonofont[Mapping=tex-text]{Courier New}%-------------------------------------英文等宽字体
+\newfontfamily\Arial{Arial}
+%================================== 设置英文字体 ================================%
+
+%================================== 设置数学字体 ================================%
+%\setmathsfont(Digits,Latin,Greek)[Numbers={Lining,Proportional}]{Minion Pro}
+%================================== 设置数学字体 ================================%
+\punctstyle{kaiming}%------------------------------------------------------------开明式标点格式
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{positioning,backgrounds}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{calc}
+\usetikzlibrary{shadings}
+\pgfdeclarelayer{background}
+\pgfdeclarelayer{foreground}
+\pgfsetlayers{background,main,foreground}
+\usepackage{xifthen}
+\usepackage{colortbl,dcolumn}
+\usepackage{enumerate}
+\usepackage{pifont}
+\usepackage{tabularx}
+\usepackage{booktabs}
+
+%=================================== 数学符号 =================================%
+\newcommand{\rtn}{\mathrm{\mathbf{R}}}
+\newcommand{\N}{\mathrm{\mathbf{N}}}
+\newcommand{\As}{\mathrm{a.s.}}
+\newcommand{\Ae}{\mathrm{a.e.}}
+\newcommand*{\PR}{\mathrm{\mathbf{P}}}
+\newcommand*{\EX}{\mathrm{\mathbf{E}}}
+\newcommand{\EXlr}[1]{\mathrm{\mathbf{E}}\left[#1\right]}
+\newcommand*{\dif}{\,\mathrm{d}}
+\newcommand*{\F}{\mathcal{F}}
+\newcommand*{\h}{\mathcal{H}}
+\newcommand*{\vp}{\varepsilon}
+\newcommand*{\prs}{\dif\PR-\As}
+\newcommand*{\dte}{\dif t-\Ae}
+\newcommand*{\pts}{\dif\PR\times\dif t-\Ae}
+\newcommand{\Ito}{It\^{o}}
+\newcommand{\tT}[1][0]{[#1,T]}
+\newcommand{\intT}[2][T]{\int^{#1}_{#2}}
+\newcommand{\intTe}[1][t]{\intT[t+\varepsilon]{#1}}
+\newcommand{\s}{\mathcal{S}}
+\newcommand{\me}{\mathrm{e}}
+\newcommand{\one}[1]{{\bf 1}_{#1}}
+\renewcommand{\M}{{\rm M}}
+\newcommand{\Me}[1][t]{M^{\varepsilon}_{#1}}
+\newcommand{\Ne}[1][t]{N^{\varepsilon}_{#1}}
+\newcommand{\Pe}[1][t]{P^{\varepsilon}_{#1}}
+\DeclareMathOperator*{\sgn}{sgn}
+% =================================== 数学符号 =================================%
+
+% 定义罗马数字
+\makeatletter
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+
+% 定义破折号
+\newcommand{\pozhehao}{\kern0.3ex\rule[0.8ex]{2em}{0.1ex}\kern0.3ex}
+% 中文日期
+\def\CJK@today{\the\year 年 \the\month 月}
+\newcommand\zhtoday{\CJK@today}
+
+% 中文图表
+\renewcommand\figurename{图}
+\renewcommand\tablename{表}
+
+\graphicspath{{./}}
+
+% Author, Title, etc.
+
+\title{移动客户端通道面试陈述}
+
+%% \subtitle{Foreground-constrained Eulerian Video Motion Magnification}
+
+\author[潘伟洲]{潘伟洲 (josephpan)\\
+  SNG-社交平台部-空间运营中心 }
+
+\institute[josephpan]{\includegraphics[height=1cm]{tencent.jpg}}
+
+\date{\tiny 2018-08-27}
+
+\setlength{\baselineskip}{22pt}
+\renewcommand{\baselinestretch}{1.4}
+
+% The main document
+
+\begin{document}
+
+\setlength{\abovedisplayskip}{1ex}%------------------------------------------ 公式前的距离
+\setlength{\belowdisplayskip}{1ex}%------------------------------------------ 公式后的距离
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}
+  \frametitle{大纲}
+
+  \tableofcontents[hideallsubsections]
+\end{frame}
+
+\section{个人经历}
+\label{sec:about}
+
+\begin{frame}
+  \frametitle{个人经历}
+    \tableofcontents[currentsection,hideallsubsections]
+\end{frame}
+
+\begin{frame}
+  \frametitle{条目}
+  \begin{itemize}
+  \item 项目1
+  \item 项目2
+  \item 项目3
+  \item 项目4
+    \begin{itemize}
+    \item 二级项目1
+    \item 二级项目2
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{表格}
+  \begin{table}[htbp!]
+    \centering
+    \caption{主流机器学习框架}
+    \begin{tabular}{c|c|c|c|c}
+      \toprule[1pt] 
+      机器学习库	& 机构 & 支持语言  & 平台 & Tensor \\ 
+      \toprule[1pt] 
+      TensorFlow	& Google & C++，Python &跨平台 & Good \\ 
+ 	  \hline 
+      Pytorch	&  Facebook& Python & 跨平台 & Good \\ 
+ 	  \hline 
+      MXNet	&  Amazon& Most Lang. & Most Plat.  & No  \\ 
+ 	  \hline 
+      Theano	& Montreal & Python & 跨平台  & Basic \\ 
+ 	  \hline 
+      CNTK	& Microsoft &C++ & Win、Linux &  Unknown\\ 
+ 	  \bottomrule[1pt] 
+    \end{tabular}
+  \end{table}
+\end{frame}
+
+\begin{frame}
+  \frametitle{分析}
+  \begin{block}{XXX 算法}
+	\begin{itemize}
+		\item 步骤1
+	 	\item 步骤2
+	 	\item 步骤3
+	 \end{itemize} 
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{强调}
+  \begin{itemize}
+  \item 这是内容
+  \end{itemize}
+  \only<1>\begin{block}{}
+    这里蹦出来一个强调！
+  \end{block}
+\end{frame}
+
+\section{项目经验}
+\label{sec:exp}
+
+\begin{frame}
+  \frametitle{项目经验}
+    \tableofcontents[currentsection,hideallsubsections]
+\end{frame}
+
+\section{技术影响力}
+\label{sec:influence}
+
+\begin{frame}
+  \frametitle{技术影响力}
+    \tableofcontents[currentsection,hideallsubsections]
+\end{frame}
+
+\section{专业领域优势}
+\label{sec:advantage}
+
+\begin{frame}
+  \frametitle{专业领域优势}
+    \tableofcontents[currentsection,hideallsubsections]
+\end{frame}
+
+
+\begin{frame}[plain]{}
+  \begin{center}
+    \begin{tikzpicture}
+      \node[above,xscale=1.2,yscale=1.2]{\Huge 欢迎批评指正！};
+    \end{tikzpicture}
+  \end{center}
+\end{frame}
+
+\end{document}
