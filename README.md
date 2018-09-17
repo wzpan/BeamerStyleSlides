@@ -67,6 +67,13 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | ---- | ----- | ---- |
 | fb-tao  |  [wzpan](http://github.com/wzpan/)  |  [contrib-fb-tao-0], [contrib-fb-tao-1]   |
 
+## Benchmark
+
+[benchmark](https://github.com/wzpan/BeamerStyleSlides/tree/master/benchmark) 目录中包含了一份 LaTeX + Beamer 制作的 slides ，作为整套模板制作的参照。
+
+要注意的是模板并没有做到 100% 遵循原始的效果，因为 PowerPoint、Keynote 和 Beamer 毕竟各自的支持的能力有差异。
+
+我更希望做到的是在保留 Beamer 原有的风格的基础上因地制宜的做些调整。
 
 ## 致谢
 
