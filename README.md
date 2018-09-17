@@ -42,7 +42,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | Boadilla | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | CambridgeUS | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Copenhagen | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Darmstadt | [darmstadt-default-0], [darmstadt-default-1] | [darmstadt-beaver-0], [darmstadt-beaver-1] | [darmstadt-crane-0], [darmstadt-crane-1] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Darmstadt | [darmstadt-default-0], [darmstadt-default-1] | [darmstadt-beaver-0], [darmstadt-beaver-1] | [darmstadt-crane-0], [darmstadt-crane-1] | TBD | TBD | TBD | TBD | TBD | TBD | [darmstadt-seahorse-0], [darmstadt-seahorse-1] | TBD | TBD |
 | Dresden | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Frankfurt | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Ilmenau | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -123,5 +123,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 [darmstadt-beaver-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver-1.jpg
 [darmstadt-crane-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane-0.jpg
 [darmstadt-crane-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane-1.jpg
+[darmstadt-seahorse-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse-0.jpg
+[darmstadt-seahorse-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse-1.jpg
 [contrib-fb-tao-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/contrib-fb-tao-0.jpg
 [contrib-fb-tao-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/contrib-fb-tao-1.jpg
