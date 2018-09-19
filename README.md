@@ -35,14 +35,14 @@ https://github.com/wzpan/BeamerStyleSlides.git
 
 | collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
-| default | [default-default-0], [default-default-1] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| default | [default-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | AnnArbor | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Antibes | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Boadilla | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | CambridgeUS | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Copenhagen | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Darmstadt | [darmstadt-default-0], [darmstadt-default-1] | [darmstadt-beaver-0], [darmstadt-beaver-1] | [darmstadt-crane-0], [darmstadt-crane-1] | TBD | TBD | TBD | TBD | TBD | TBD | [darmstadt-seahorse-0], [darmstadt-seahorse-1] | TBD | TBD |
+| Darmstadt | [darmstadt-default] | [darmstadt-beaver] | [darmstadt-crane] | TBD | TBD | TBD | TBD | TBD | TBD | [darmstadt-seahorse] | TBD | TBD |
 | Dresden | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Frankfurt | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Ilmenau | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -53,7 +53,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | Montpellier | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Pittsburgh | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Rochester | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Singapore | [singapore-default-0], [singapore-default-1] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Singapore | [singapore-default]| TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Szeged | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Warsaw | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 
@@ -64,7 +64,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 
 | 主题名 | 贡献者 | 预览 | 
 | ---- | ----- | ---- |
-| fb-tao  |  [wzpan](http://github.com/wzpan/)  |  [contrib-fb-tao-0], [contrib-fb-tao-1]   |
+| fb-tao  |  [wzpan](http://github.com/wzpan/)  |  [contrib-fb-tao]  |
 
 ## Benchmark
 
@@ -100,8 +100,8 @@ https://github.com/wzpan/BeamerStyleSlides.git
  |  ‘-  ...
  |-[-] preview
  |  |-  ...
- |  |-  Custom-mycustom-0.jpg  # 你的主题封面预览图（建议用PowerPoint导出功能导出）
- |  |-  Custom-mycustom-1.jpg  # 你的主题正文预览图（建议用PowerPoint导出功能导出）
+ |  |-  Contrib-mycustom-cover.jpg  # 你的主题封面图
+ |  |-  Contrib-mycustom.jpg        # 你的主题预览图
  |  ‘-  ...
  ‘-  README.md  # 完成后编辑这个README，在第三方主题中插入你的主题说明。
 ```
@@ -113,17 +113,10 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | <img src="http://7xj89i.com1.z0.glb.clouddn.com/ali_pay_01.jpg" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="http://7xj89i.com1.z0.glb.clouddn.com/wechat_pay_02.png" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
 
 
-[default-default-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-default-0.jpg
-[default-default-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-default-1.jpg
-[darmstadt-default-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default-0.jpg
-[darmstadt-default-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default-1.jpg
-[singapore-default-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default-0.jpg
-[singapore-default-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default-1.jpg
-[darmstadt-beaver-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver-0.jpg
-[darmstadt-beaver-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver-1.jpg
-[darmstadt-crane-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane-0.jpg
-[darmstadt-crane-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane-1.jpg
-[darmstadt-seahorse-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse-0.jpg
-[darmstadt-seahorse-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse-1.jpg
-[contrib-fb-tao-0]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/contrib-fb-tao-0.jpg
-[contrib-fb-tao-1]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/contrib-fb-tao-1.jpg
+[default-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-default.jpg
+[darmstadt-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default.jpg
+[singapore-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default.jpg
+[darmstadt-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver.jpg
+[darmstadt-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane.jpg
+[darmstadt-seahorse]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse.jpg
+[contrib-fb-tao]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/contrib-fb-tao.jpg

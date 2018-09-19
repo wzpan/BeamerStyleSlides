@@ -2,7 +2,7 @@
 
 center=0   # Start position of the center of the first image.
              # This can be ANYTHING, as only relative changes are important.
-for image in ./*-0.jpg
+for image in ./*-cover.jpg
 do
   # Add 70 to the previous images relative offset to add to each image
   #
