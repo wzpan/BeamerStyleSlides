@@ -36,7 +36,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
 | default | [default-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| AnnArbor | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| AnnArbor | [AnnArbor-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Antibes | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Boadilla | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -114,6 +114,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 
 
 [default-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-default.jpg
+[AnnArbor-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-default.jpg
 [darmstadt-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default.jpg
 [singapore-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default.jpg
 [darmstadt-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver.jpg
