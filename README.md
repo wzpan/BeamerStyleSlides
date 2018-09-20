@@ -3,7 +3,7 @@
 Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。尤其适用于晋升述职、技术分享和学术汇报。
 
 <h1 align="center">
-<img width="100%" src="https://media.githubusercontent.com/media/wzpan/BeamerStyleSlides/master/preview/tile.png" alt="teaser">
+<img width="100%" src="https://raw.githubusercontent.com/wzpan/BeamerStyleSlides/master/preview/tile.png" alt="teaser">
 </h1>
 
 ## 克隆方法
