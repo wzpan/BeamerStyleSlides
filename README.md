@@ -64,7 +64,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 
 | 主题名 | 贡献者 | 预览 | 
 | ---- | ----- | ---- |
-| fb-tao  |  [wzpan](http://github.com/wzpan/)  |  [contrib-fb-tao]  |
+| fb-tao  |  [wzpan](http://github.com/wzpan/)  |  [Contrib-fb-tao]  |
 
 ## Benchmark
 
@@ -120,4 +120,4 @@ https://github.com/wzpan/BeamerStyleSlides.git
 [darmstadt-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver.jpg
 [darmstadt-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane.jpg
 [darmstadt-seahorse]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse.jpg
-[contrib-fb-tao]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/contrib-fb-tao.jpg
+[Contrib-fb-tao]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Contrib-fb-tao.jpg
