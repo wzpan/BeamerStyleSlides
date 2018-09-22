@@ -54,7 +54,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | Pittsburgh | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Rochester | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Singapore | [singapore-default]| TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Szeged | [Szeged-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Szegeb | [Szegeb-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Warsaw | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 
 
@@ -118,7 +118,7 @@ https://github.com/wzpan/BeamerStyleSlides.git
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [darmstadt-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default.jpg
 [singapore-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default.jpg
-[Szeged-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Szeged-default.jpg
+[Szegeb-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Szegeb-default.jpg
 [darmstadt-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver.jpg
 [darmstadt-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane.jpg
 [darmstadt-seahorse]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse.jpg
