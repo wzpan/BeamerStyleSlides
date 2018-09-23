@@ -43,19 +43,19 @@ https://github.com/wzpan/BeamerStyleSlides.git
 | CambridgeUS | [CambridgeUS-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Copenhagen | [Copenhagen-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Darmstadt | [darmstadt-default] | [darmstadt-beaver] | [darmstadt-crane] | TBD | TBD | TBD | TBD | TBD | TBD | [darmstadt-seahorse] | TBD | TBD |
-| Dresden | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Frankfurt | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Ilmenau | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| JuanLesPins | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Luebeck | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Madrid | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Malmoe | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Montpellier | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Pittsburgh | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Rochester | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Dresden | [Dresden-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Frankfurt | [Frankfurt-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Ilmenau | [Ilmenau-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| JuanLesPins | [JuanLesPins-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Luebeck | [Luebeck-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Madrid | [Madrid-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Malmoe | [Malmoe-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Montpellier | [Montpellier-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Pittsburgh | [Pittsburgh-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Rochester | [Rochester-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Singapore | [singapore-default]| TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Szegeb | [Szegeb-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Warsaw | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Warsaw | [Warsaw-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 
 
 ## 第三方主题
@@ -118,12 +118,26 @@ https://github.com/wzpan/BeamerStyleSlides.git
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
-[darmstadt-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default.jpg
 [CambridgeUS-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/CambridgeUS-default.jpg
 [Copenhagen-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Copenhagen-default.jpg
-[singapore-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default.jpg
-[Szegeb-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Szegeb-default.jpg
+[darmstadt-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-default.jpg
 [darmstadt-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-beaver.jpg
 [darmstadt-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-crane.jpg
 [darmstadt-seahorse]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Darmstadt-seahorse.jpg
+[Dresden-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Dresden-default.jpg
+[Frankfurt-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Frankfurt-default.jpg
+[Ilmenau-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Ilmenau-default.jpg
+[JuanLesPins-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/JuanLesPins-default.jpg
+[Luebeck-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Luebeck-default.jpg
+[Madrid-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Madrid-default.jpg
+[Malmoe-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Malmoe-default.jpg
+[Montpellier-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Montpellier-default.jpg
+[Pittsburgh-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Pittsburgh-default.jpg
+[Rochester-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Rochester-default.jpg
+[singapore-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Singapore-default.jpg
+[Szegeb-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Szegeb-default.jpg
+[Warsaw-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Warsaw-default.jpg
 [Contrib-fb-tao]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Contrib-fb-tao.jpg
+
+
+
