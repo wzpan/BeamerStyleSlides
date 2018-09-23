@@ -2,7 +2,7 @@
 
 center=0   # Start position of the center of the first image.
              # This can be ANYTHING, as only relative changes are important.
-for image in ./*-cover.jpg
+for image in ./default-default-cover.jpg ./AnnArbor-default-cover.jpg ./Boadilla-default-cover.jpg ./CambridgeUS-default-cover.jpg ./Darmstadt-beaver-cover.jpg ./Darmstadt-crane-cover.jpg ./Darmstadt-default-cover.jpg ./Darmstadt-seahorse-cover.jpg ./Singapore-default-cover.jpg ./Contrib-fb-tao-cover.jpg
 do
   # Add 70 to the previous images relative offset to add to each image
   #
