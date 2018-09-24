@@ -12,7 +12,7 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 2. 安装完成后再执行 git clone 操作：
 
 ``` sh
-https://github.com/wzpan/BeamerStyleSlides.git
+git clone https://github.com/wzpan/BeamerStyleSlides.git
 ```
 
 ## 使用技巧
