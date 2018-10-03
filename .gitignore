@@ -9,3 +9,4 @@ slides.nav
 exports
 preview/*.pdf
 covers.jpg
+*.synctex.gz
