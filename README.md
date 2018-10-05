@@ -119,7 +119,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [default-dolphin]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-dolphin.jpg
 [default-dove]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-dove.jpg
 [default-lily]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-lily.jpg
-
+[default-archid]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-archid.jpg
 [AnnArbor-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-default.jpg
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
