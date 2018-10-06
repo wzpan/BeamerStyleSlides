@@ -35,7 +35,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 
 | collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
-| default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | TBD | TBD | TBD |
+| default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | [default-seahorse] | [default-whale] | [default-wolverine] |
 | AnnArbor | [AnnArbor-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Antibes | [Antibes-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | [Berlin-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -122,6 +122,9 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [default-orchid]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-orchid.jpg
 [default-rose]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-rose.jpg
 [default-seagull]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-seagull.jpg
+[default-seahorse]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-seahorse.jpg
+[default-whale]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-whale.jpg
+[default-wolverine]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-wolverine.jpg
 [AnnArbor-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-default.jpg
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
