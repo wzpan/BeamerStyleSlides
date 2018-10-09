@@ -6,6 +6,20 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 <img width="100%" src="https://raw.githubusercontent.com/wzpan/BeamerStyleSlides/master/preview/tile.png" alt="teaser">
 </h1>
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [BeamerStyleSlides](#beamerstyleslides)
+    - [克隆方法](#克隆方法)
+    - [使用技巧](#使用技巧)
+    - [主题](#主题)
+    - [第三方主题](#第三方主题)
+    - [Benchmark](#benchmark)
+    - [致谢](#致谢)
+    - [如何贡献](#如何贡献)
+
+<!-- markdown-toc end -->
+
 ## 克隆方法
 
 1. 安装 git-lfs。为了节省仓库大小，项目使用 git-lfs 来对 *.key 和 *.pptx 进行版本控制。所以，在克隆前，要求先 [安装好 git-lfs](https://git-lfs.github.com/) 。
@@ -76,7 +90,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 
 ## 致谢
 
-* 整套模板主题主要参考自 [beamer-theme-matrix](https://hartwork.org/beamer-theme-matrix/) 。
+* 整套模板主题主要参考自 [LaTeX Beamer](https://ctan.org/pkg/beamer/) 。
 
 ## 如何贡献
 
@@ -106,7 +120,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
  ‘-  README.md  # 完成后编辑这个README，在第三方主题中插入你的主题说明。
 ```
 
-- 如果喜欢这个项目，不放给它加一星，或给我打赏：
+- 如果喜欢这个项目，不妨给它加一星，或给我打赏：
 
 | 支付宝 | 微信支付 |
 | ------ | --------- |
