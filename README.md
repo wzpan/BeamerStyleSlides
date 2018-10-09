@@ -31,12 +31,12 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 1. 去掉了深色背景主题。个人认为深色背景主题在处理白底的图片时很不美观，所以我没有制作深色背景的 slides 的动力。当然，我愿意接受深色背景主题的pull request。
 2. PowerPoint 和 Keynote 并没有提供类似 Beamer 那样酷炫的导航栏功能，所以带导航栏的主题都不会进行复刻。
 
-目前完成的主题如下表所示。其中，单元格内容不为 `TBD` 的主题说明已经完成了复刻，为 `TBD` 表示正在复刻中（`To Be Done`）；以 0 结尾的链接指向封面的预览图，以 1 结尾的链接指向正文的预览图。
+目前完成的主题如下表所示。其中，单元格内容不为 `TBD` 的主题说明已经完成了复刻，为 `TBD` 表示正在复刻中（`To Be Done`）。
 
 | collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
 | default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | [default-seahorse] | [default-whale] | [default-wolverine] |
-| AnnArbor | [AnnArbor-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Antibes | [Antibes-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | [Berlin-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Boadilla | [Boadilla-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -126,6 +126,9 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [default-whale]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-whale.jpg
 [default-wolverine]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-wolverine.jpg
 [AnnArbor-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-default.jpg
+[AnnArbor-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-beaver.jpg
+[AnnArbor-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-crane.jpg
+[AnnArbor-dolphin]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-dolphin.jpg
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
