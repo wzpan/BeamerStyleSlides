@@ -15,8 +15,8 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
     - [主题](#主题)
     - [第三方主题](#第三方主题)
     - [Benchmark](#benchmark)
-    - [致谢](#致谢)
     - [如何贡献](#如何贡献)
+    - [致谢](#致谢)
 
 <!-- markdown-toc end -->
 
@@ -87,10 +87,6 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 要注意的是模板并没有做到 100% 遵循原始的效果，毕竟 PowerPoint、Keynote 和 Beamer 各自的支持的能力有差异。
 
 我更希望做到的是在保留 Beamer 原有的风格的基础上因地制宜地做些调整。
-
-## 致谢
-
-* 整套模板主题主要参考自 [LaTeX Beamer](https://ctan.org/pkg/beamer/) 。
 
 ## 如何贡献
 
@@ -167,5 +163,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [Warsaw-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Warsaw-default.jpg
 [Contrib-fb-tao]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Contrib-fb-tao.jpg
 
+## 致谢
 
+* 整套模板主题主要参考自 [LaTeX Beamer](https://ctan.org/pkg/beamer/) 。
 
