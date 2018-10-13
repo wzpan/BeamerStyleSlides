@@ -50,7 +50,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 | collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
 | default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | [default-seahorse] | [default-whale] | [default-wolverine] |
-| AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | TBD | TBD | TBD | TBD | TBD | TBD |
+| AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | TBD | TBD | TBD |
 | Antibes | [Antibes-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | [Berlin-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Boadilla | [Boadilla-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -141,6 +141,9 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [AnnArbor-dolphin]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-dolphin.jpg
 [AnnArbor-dove]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-dove.jpg
 [AnnArbor-lily]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-lily.jpg
+[AnnArbor-orchid]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-orchid.jpg
+[AnnArbor-rose]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-rose.jpg
+[AnnArbor-seagull]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-seagull.jpg
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
