@@ -50,7 +50,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 | collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
 | default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | [default-seahorse] | [default-whale] | [default-wolverine] |
-| AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | TBD | TBD | TBD |
+| AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | [AnnArbor-seahorse] | [AnnArbor-whale] | [AnnArbor-wolverine] |
 | Antibes | [Antibes-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | [Berlin-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Boadilla | [Boadilla-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
