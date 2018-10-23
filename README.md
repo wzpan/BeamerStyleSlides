@@ -144,6 +144,9 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [AnnArbor-orchid]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-orchid.jpg
 [AnnArbor-rose]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-rose.jpg
 [AnnArbor-seagull]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-seagull.jpg
+[AnnArbor-seahorse]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-seahorse.jpg
+[AnnArbor-whale]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-whale.jpg
+[AnnArbor-wolverine]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-wolverine.jpg
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
