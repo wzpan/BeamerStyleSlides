@@ -51,7 +51,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 | -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
 | default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | [default-seahorse] | [default-whale] | [default-wolverine] |
 | AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | [AnnArbor-seahorse] | [AnnArbor-whale] | [AnnArbor-wolverine] |
-| Antibes | [Antibes-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| Antibes | [Antibes-default] | [Antibes-beaver]    | [Antibes-crane] | [Antibes-dolphin] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Berlin | [Berlin-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | Boadilla | [Boadilla-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | CambridgeUS | [CambridgeUS-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
@@ -148,6 +148,9 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [AnnArbor-whale]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-whale.jpg
 [AnnArbor-wolverine]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/AnnArbor-wolverine.jpg
 [Antibes-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-default.jpg
+[Antibes-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-beaver.jpg
+[Antibes-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-crane.jpg
+[Antibes-dolphin]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-dolphin.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
 [CambridgeUS-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/CambridgeUS-default.jpg
