@@ -47,29 +47,29 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 
 目前完成的主题如下表所示。其中，单元格内容不为 `TBD` 的主题说明已经完成了复刻，为 `TBD` 表示正在复刻中（`To Be Done`）。
 
-| collection | default | beaver | crane | dolphin | dove | lily | orchid | rose | seagull | seahorse | whale | wolverine |
-| -----      | ------- | ------ | ----- | ------- | ---- | ---- | ------ | ---- | ------- | -------- | ----- | --------- |
-| default | [default-default] | [default-beaver]    | [default-crane] | [default-dolphin] | [default-dove] | [default-lily] | [default-orchid] | [default-rose] | [default-seagull] | [default-seahorse] | [default-whale] | [default-wolverine] |
-| AnnArbor | [AnnArbor-default] | [AnnArbor-beaver]     | [AnnArbor-crane] | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | [AnnArbor-seahorse] | [AnnArbor-whale] | [AnnArbor-wolverine] |
-| Antibes | [Antibes-default] | [Antibes-beaver]    | [Antibes-crane] | [Antibes-dolphin] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Berlin | [Berlin-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Boadilla | [Boadilla-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| CambridgeUS | [CambridgeUS-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Copenhagen | [Copenhagen-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Darmstadt | [darmstadt-default] | [darmstadt-beaver] | [darmstadt-crane] | TBD | TBD | TBD | TBD | TBD | TBD | [darmstadt-seahorse] | TBD | TBD |
-| Dresden | [Dresden-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Frankfurt | [Frankfurt-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Ilmenau | [Ilmenau-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| JuanLesPins | [JuanLesPins-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Luebeck | [Luebeck-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Madrid | [Madrid-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Malmoe | [Malmoe-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Montpellier | [Montpellier-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Pittsburgh | [Pittsburgh-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Rochester | [Rochester-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Singapore | [singapore-default]| TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Szegeb | [Szegeb-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Warsaw | [Warsaw-default] | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| collection  | default               | beaver             | crane             | dolphin            | dove            | lily            | orchid            | rose            | seagull            | seahorse             | whale            | wolverine            |
+| -----       | -------               | ------             | -----             | -------            | ----            | ----            | ------            | ----            | -------            | --------             | -----            | ---------            |
+| default     | [default-default]     | [default-beaver]   | [default-crane]   | [default-dolphin]  | [default-dove]  | [default-lily]  | [default-orchid]  | [default-rose]  | [default-seagull]  | [default-seahorse]   | [default-whale]  | [default-wolverine]  |
+| AnnArbor    | [AnnArbor-default]    | [AnnArbor-beaver]  | [AnnArbor-crane]  | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | [AnnArbor-seahorse]  | [AnnArbor-whale] | [AnnArbor-wolverine] |
+| Antibes     | [Antibes-default]     | [Antibes-beaver]   | [Antibes-crane]   | [Antibes-dolphin]  | [Antibes-dove]  | [Antibes-lily]                | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Berlin      | [Berlin-default]      | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Boadilla    | [Boadilla-default]    | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| CambridgeUS | [CambridgeUS-default] | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Copenhagen  | [Copenhagen-default]  | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Darmstadt   | [darmstadt-default]   | [darmstadt-beaver] | [darmstadt-crane] | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | [darmstadt-seahorse] | TBD              | TBD                  |
+| Dresden     | [Dresden-default]     | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Frankfurt   | [Frankfurt-default]   | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Ilmenau     | [Ilmenau-default]     | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| JuanLesPins | [JuanLesPins-default] | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Luebeck     | [Luebeck-default]     | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Madrid      | [Madrid-default]      | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Malmoe      | [Malmoe-default]      | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Montpellier | [Montpellier-default] | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Pittsburgh  | [Pittsburgh-default]  | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Rochester   | [Rochester-default]   | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Singapore   | [singapore-default]   | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Szegeb      | [Szegeb-default]      | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Warsaw      | [Warsaw-default]      | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
 
 
 ## 第三方主题
@@ -151,6 +151,8 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [Antibes-beaver]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-beaver.jpg
 [Antibes-crane]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-crane.jpg
 [Antibes-dolphin]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-dolphin.jpg
+[Antibes-dove]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-dove.jpg
+[Antibes-lily]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-lily.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
 [CambridgeUS-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/CambridgeUS-default.jpg
