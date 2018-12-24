@@ -51,7 +51,7 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 | -----       | -------               | ------             | -----             | -------            | ----            | ----            | ------            | ----            | -------            | --------             | -----            | ---------            |
 | default     | [default-default]     | [default-beaver]   | [default-crane]   | [default-dolphin]  | [default-dove]  | [default-lily]  | [default-orchid]  | [default-rose]  | [default-seagull]  | [default-seahorse]   | [default-whale]  | [default-wolverine]  |
 | AnnArbor    | [AnnArbor-default]    | [AnnArbor-beaver]  | [AnnArbor-crane]  | [AnnArbor-dolphin] | [AnnArbor-dove] | [AnnArbor-lily] | [AnnArbor-orchid] | [annArbor-rose] | [AnnArbor-seagull] | [AnnArbor-seahorse]  | [AnnArbor-whale] | [AnnArbor-wolverine] |
-| Antibes     | [Antibes-default]     | [Antibes-beaver]   | [Antibes-crane]   | [Antibes-dolphin]  | [Antibes-dove]  | [Antibes-lily]                | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
+| Antibes     | [Antibes-default]     | [Antibes-beaver]   | [Antibes-crane]   | [Antibes-dolphin]  | [Antibes-dove]  | [Antibes-lily]                | [Antibes-orchid]               | [Antibes-rose]             | TBD                | TBD                  | TBD              | TBD                  |
 | Berlin      | [Berlin-default]      | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
 | Boadilla    | [Boadilla-default]    | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
 | CambridgeUS | [CambridgeUS-default] | TBD                | TBD               | TBD                | TBD             | TBD             | TBD               | TBD             | TBD                | TBD                  | TBD              | TBD                  |
@@ -153,6 +153,8 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 [Antibes-dolphin]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-dolphin.jpg
 [Antibes-dove]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-dove.jpg
 [Antibes-lily]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-lily.jpg
+[Antibes-orchid]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-orchid.jpg
+[Antibes-rose]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Antibes-rose.jpg
 [Berlin-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Berlin-default.jpg
 [Boadilla-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/Boaddilla-default.jpg
 [CambridgeUS-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/CambridgeUS-default.jpg
