@@ -24,6 +24,8 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 
 BeamerStyleSlides 已完成的全部主题都放在[微云](https://share.weiyun.com/5z1ETgQ)同步，请移步下载。
 
+如果仅仅只是为了使用，也可以在 Github 中直接点击喜欢的模板，下载单个文件（View raw）。
+
 ## 使用技巧
 
 1. 首先可以在 [beamer-theme-matrix](https://hartwork.org/beamer-theme-matrix/) 中找找看有没有心仪的样式；
@@ -123,7 +125,7 @@ BeamerStyleSlides 已完成的全部主题都放在[微云](https://share.weiyun
 
 | 支付宝 | 微信支付 |
 | ------ | --------- |
-| <img src="https://camo.githubusercontent.com/02137cc531856c56345624f0d97b8588ff333a07/687474703a2f2f37786a3839692e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616c695f7061795f30312e6a7067" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="https://camo.githubusercontent.com/8d283b5d11d87fed1760405b468ebb28b991d14b/687474703a2f2f37786a3839692e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7765636861745f7061795f30322e706e67" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
+| <img src="http://hahack.com/images/misc/alipay.png" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="http://hahack.com/images/misc/wechatpay.jpeg" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
 
 
 [default-default]: https://github.com/wzpan/BeamerStyleSlides/blob/master/preview/default-default.jpg
