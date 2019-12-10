@@ -24,8 +24,6 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 
 BeamerStyleSlides 已完成的全部主题都放在[微云](https://share.weiyun.com/5z1ETgQ)同步，请移步下载。
 
-如果仅仅只是为了使用，也可以在 Github 中直接点击喜欢的模板，下载单个文件（View raw）。
-
 ## 使用技巧
 
 1. 首先可以在 [beamer-theme-matrix](https://hartwork.org/beamer-theme-matrix/) 中找找看有没有心仪的样式；
