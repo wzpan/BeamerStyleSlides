@@ -10,24 +10,19 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 **Table of Contents**
 
 - [BeamerStyleSlides](#beamerstyleslides)
-    - [克隆方法](#克隆方法)
-    - [使用技巧](#使用技巧)
-    - [主题](#主题)
-    - [第三方主题](#第三方主题)
-    - [Benchmark](#benchmark)
-    - [如何贡献](#如何贡献)
-    - [致谢](#致谢)
+  - [如何下载](#%e5%a6%82%e4%bd%95%e4%b8%8b%e8%bd%bd)
+  - [使用技巧](#%e4%bd%bf%e7%94%a8%e6%8a%80%e5%b7%a7)
+  - [主题](#%e4%b8%bb%e9%a2%98)
+  - [第三方主题](#%e7%ac%ac%e4%b8%89%e6%96%b9%e4%b8%bb%e9%a2%98)
+  - [Benchmark](#benchmark)
+  - [如何贡献](#%e5%a6%82%e4%bd%95%e8%b4%a1%e7%8c%ae)
+  - [致谢](#%e8%87%b4%e8%b0%a2)
 
 <!-- markdown-toc end -->
 
-## 克隆方法
+## 如何下载
 
-1. 安装 git-lfs。为了节省仓库大小，项目使用 git-lfs 来对 *.key 和 *.pptx 进行版本控制。所以，在克隆前，要求先 [安装好 git-lfs](https://git-lfs.github.com/) 。
-2. 安装完成后再执行 git clone 操作：
-
-``` sh
-git clone https://github.com/wzpan/BeamerStyleSlides.git
-```
+BeamerStyleSlides 已完成的全部主题都放在[微云](https://share.weiyun.com/5z1ETgQ)同步，请移步下载。
 
 ## 使用技巧
 
@@ -91,10 +86,18 @@ git clone https://github.com/wzpan/BeamerStyleSlides.git
 ## 如何贡献
 
 - 欢迎 fork 这个项目，并通过 pull request 的形式贡献你的主题！
+  1. fork 完成后，按照下列方法克隆：
+     - 安装 git-lfs 2.2 （更高版本可能会有克隆问题）。为了节省仓库大小，项目使用 git-lfs 来对 *.key 和 *.pptx 进行版本控制。所以，在克隆前，要求先 [安装好 git-lfs](https://git-lfs.github.com/) 。
+     - 安装完成后再执行 git clone 操作：
+
+        ``` sh
+        git clone https://github.com/wzpan/BeamerStyleSlides.git
+        ```
+  
   1. 第三方模板请分别保存到 Keynote / PowerPoint 目录里的 Contrib 目录中；
-  2. 比较省事的制作方式是先制作一个 PowerPoint 的模板，然后在 Keynote 里导入 PowerPoint 模板再另存为 Keynote 模板；
-  3. 完成后别忘了在 [第三方主题](#第三方主题) 里添加你的大作。
-  4. 主题的存放必须遵循按照现有的目录形式：
+  1. 比较省事的制作方式是先制作一个 PowerPoint 的模板，然后在 Keynote 里导入 PowerPoint 模板再另存为 Keynote 模板；
+  1. 完成后别忘了在 [第三方主题](#第三方主题) 里添加你的大作。
+  1. 主题的存放必须遵循按照现有的目录形式：
   
 ```
 [-] ~/Documents/projects/BeamerStyleSlides/
