@@ -22,7 +22,10 @@ Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 
 ## 如何下载
 
-BeamerStyleSlides 已完成的全部主题都放在[微云](https://share.weiyun.com/5z1ETgQ)同步，请移步下载。
+BeamerStyleSlides 已完成的全部主题都放在微云同步，请移步下载。
+
+* PowerPoint版本：https://share.weiyun.com/hOm6pu4y （密码：c6nnem）
+* Keynote版本：https://share.weiyun.com/del3tuMG （密码：zy9sc6）
 
 ## 使用技巧
 
